@@ -274,7 +274,6 @@ const Index = () => {
             </div>
           </DashboardCard>
         </div>
-        
       </PageTransition>
     </div>
   );
